@@ -1,0 +1,5 @@
+set -tmpdir "F:/CECS 440/Lab 1/Lab1_Register_File/xst/projnav.tmp"
+set -xsthdpdir "F:/CECS 440/Lab 1/Lab1_Register_File/xst"
+elaborate
+-ifn register_file.prj
+-ifmt mixed

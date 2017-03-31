@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="F:/CECS 440/Lab 1/Lab1_Register_File/register_file_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="register_file_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/register_file_tb/wr_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">wr_addr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">wr_addr[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_file_tb/wr_data" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">wr_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">wr_data[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_file_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_file_tb/rstb" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rstb</obj_property>
+      <obj_property name="ObjectShortName">rstb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_file_tb/wr_e" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">wr_e</obj_property>
+      <obj_property name="ObjectShortName">wr_e</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_file_tb/rd_addr1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rd_addr1[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_addr1[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_file_tb/rd_data1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rd_data1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_data1[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_file_tb/rd_addr2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rd_addr2[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_addr2[4:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_file_tb/rd_data2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rd_data2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rd_data2[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

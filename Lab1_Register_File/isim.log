@@ -1,0 +1,18 @@
+ISim log file
+Running: C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Spring 2015\CECS 440\Lab 1\Lab1_Register_File\register_file_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Victor Espinoza/Documents/Long Beach/Victor's Projects To Upload/Spring 2015/CECS 440/Lab 1/Lab1_Register_File/register_file_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+rd_addr1=0f rd_data1=00000000 || rd_addr2=1f rd_data2=00000000
+rd_addr1=0f rd_data1=0000000f || rd_addr2=1f rd_data2=0000001f
+rd_addr1=0f rd_data1=00000000 || rd_addr2=1f rd_data2=00000000
