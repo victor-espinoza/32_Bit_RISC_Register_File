@@ -15,3 +15,8 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+
+*.c linguist-detectable=false
+*.v linguist-detectable=true
+*.html linguist-detectable=false
