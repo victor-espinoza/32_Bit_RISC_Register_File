@@ -1,5 +1,5 @@
-# Lab_1_Register_File
 Project Overview:  
+
 Register File using Verilog.
   
 The purpose of this lab was to create a (32x32) register file. This means that the register file contains 32 registers that are each 32-bits wide. This register file is capable of reading the data of two different registers at a time. In order to write data into the 32 different registers in this register file, I needed to have a specified address (wr_addr) and the data that the user wanted to write to that specific address (wr_data).    
